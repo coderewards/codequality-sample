@@ -18,6 +18,7 @@ public class DateFormatterViolations {
 	    SimpleDateFormat sdf = new SimpleDateFormat(DATE_FORMAT);  
 	    String dateString= sdf.format(date);
 	    System.out.println(dateString);
+	    System.out.println(dateString);
 	    return dateString;
 	}
 	
