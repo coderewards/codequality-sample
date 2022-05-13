@@ -11,6 +11,9 @@ public class StringViolations {
 	
 	public String convertToUpperCase(String inputString) {
 		System.out.println(inputString);
+		
+		System.out.println(inputString);
+		
 		return inputString.toUpperCase();
 	}
 	
@@ -23,6 +26,11 @@ public class StringViolations {
 		if(inputString != null) {
 			outputString = inputString.toLowerCase();
 		}
+		
+		if(inputString != null) {
+			outputString = inputString.toLowerCase();
+		}
+		
 		System.out.println(outputString);
 		return outputString;
 	}
