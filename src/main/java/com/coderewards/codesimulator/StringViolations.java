@@ -10,6 +10,10 @@ public class StringViolations {
 	
 	
 	public String convertToUpperCase(String inputString) {
+		System.out.println(inputString);	
+		
+		System.out.println(inputString);
+		
 		System.out.println(inputString);
 		
 		System.out.println(inputString);
