@@ -51,17 +51,7 @@ public class StringViolations {
 		
 		System.out.println(outputString);
 		
-				//Intentionally added duplicate code
-		if(inputString != null) {
-			outputString = inputString.toLowerCase();
-		}
-		
-		if(inputString != null) {
-			outputString = inputString.toLowerCase();
-		}
-		
-		System.out.println(outputString);
-		
+				
 		
 		return outputString;
 	}
